@@ -1,5 +1,5 @@
 /*create a class student having data members as roll_number,name,and marks
-ans static data member as count which will number of objects created. create
+and static data member as count which will number of objects created. create
 a static function which will return the number of objects created*/
 #include<iostream.h>
 #include<conio.h>
